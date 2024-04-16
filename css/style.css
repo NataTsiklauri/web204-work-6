@@ -1,0 +1,205 @@
+/* სათაური */
+.header {
+    width: 1336px;
+    height: 178px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    text-align: center;
+}
+.header-1 {
+    color: #282828;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+}
+.header-2 {
+    color: #282828;
+    font-size: 54px;
+    line-height: 62px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+}
+.header-3 {
+    width: 760px;
+    color:#5F6980 ;
+    font-size: 20px;
+    margin-left: 288px;
+    line-height: 35px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+/* შუა ნაწილი */
+
+.parent-box {
+    width: 1336px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.child-box {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 908px;
+    align-content: space-between;
+    margin-top: 48px;
+}
+.small-box {
+    width: 310px;
+    height: 430px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 16px;
+    padding-left: 0px;
+    background-color: 
+    #FFFFFF;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #EAECF0; 
+}
+.box-info {
+    width: 278px;
+    height: 108px;
+    gap: 8px;
+    margin-top: 16px;
+    margin-right: 16px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+}
+.name-part {
+    font-size: 18px;
+    color: #282828;
+    line-height: 30px;
+}
+.prof-part {
+    font-size: 14px;
+    color: #3E3E59;
+    line-height: 22px;
+    margin-top: 4px;
+}
+.descr-part {
+    color: #5F6980;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 8px;
+}
+
+.footer-part {
+    width: 310px;
+    height: 168px;
+    margin: 24px,12px,0px,12px;
+    
+}
+.icon {
+    margin-top: 9px;
+    margin-left: 9px;
+    margin-bottom: 9px;
+    margin-right: 9px;
+    background-color: #F2F4F7;
+    border-radius: 100px;
+}
+/* ფუტერი */
+
+.last-footer {
+    height: 512px;
+    background-color: #53535354;
+    margin-top: 48px;
+    
+}
+.footer-boxes {
+    width: 1306px;
+    height: 223px;
+    display: flex;
+    margin: auto;
+    margin-bottom: 183px;
+}
+.fotbox-1 {
+    width: 318.05px;
+    height: 221px;
+    padding-right: 144.95px;
+    padding-top: 108px;
+    ;
+
+}
+.fotbox-2 {
+    width: 136px;
+    height: 223px;
+    margin-right: 254px;
+    margin-top: 108px;
+
+}
+.fotbox-3 {
+    width: 199px;
+    height: 223px;
+    margin-top: 108px;
+}
+.fotbox-4 {
+    width: 107px;
+    height: 127.45px;
+    margin-top: 108px;
+
+}
+.footerlogo {
+    margin-bottom: 32px;
+}
+
+.footer-icon {
+    margin-right: 16px;
+    margin-top: 28px;
+}
+.footer-title {
+    color: #1E1E1E;
+    font-size: 20px;
+    line-height: 24.2px;
+    padding-bottom: 71px;
+}
+.par-text {
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 14px;
+    color: #535353;
+}
+.footer-texts {
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #535353;
+    width: auto;
+}
+.active {
+    margin-bottom: 15px;
+}
+.active1 {
+    width: 1017px;
+}
+.footbox-style {
+    font-size: 20px;
+    line-height: 24.2px;
+    color: #1E1E1E;
+}
+.footer-img {
+    height: 45px;
+    width: 80px;
+    background-color: #054A68;
+    text-align: center;
+    padding: 16px 14px 16px 14px;
+    color: #FFFFFF;
+    size: 14px;
+}
